@@ -27,4 +27,4 @@ print (DoubleEnded)
 # Reverse the dequeue
 print("Reversing the deque: ")
 DoubleEnded.reverse()
-print (DoubleEnded
+print (DoubleEnded)
